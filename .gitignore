@@ -6,4 +6,6 @@ notebooks/250620_worldmap_and_comparison.ipynb
 notebooks/250626_metag_hashval_pres.ipynb
 notebooks/250708_sra_meta_aus.ipynb
 notebooks/branchwater_output.ipynb
-
+data/new_kmers_mags.k31.csv
+notebooks/.ipynb_checkpoints*
+notebooks/plots/*.png
