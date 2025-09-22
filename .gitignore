@@ -9,3 +9,6 @@ notebooks/branchwater_output.ipynb
 data/new_kmers_mags.k31.csv
 notebooks/.ipynb_checkpoints*
 notebooks/plots/*.png
+data/3217_pairwise.csv
+data/250830_gatherout.gtdbmags.species.pig.csv
+data/250813_gatherout.gtdb.species.pig.csv
